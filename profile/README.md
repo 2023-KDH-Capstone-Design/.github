@@ -14,12 +14,12 @@
 &nbsp;  
 
 ## 👨‍👩‍👧‍👦 Members
-|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|
+|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|
 |:---:|:---:|:---:|:---:|:---:|
-|**👑 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|
+|**👑 [조병찬](http://github.com/bbjbc)**|**🐝 [김담현](http://github.com/)**|**🐝 [김유찬](http://github.com/)**|**🐝 [박승민](http://github.com/)**|**🐝 [유동우](http://github.com/)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
-|[[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|
-|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|
+|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![wontory](https://avatars.githubusercontent.com/u/94912717)](http://github.com/wontory)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|
+|**🐝 [윤주성](http://github.com/)**|**🐝 [임건우](http://github.com/)**|**🐝 [정재우](http://github.com/)**|**🐝 [조성원](http://github.com/wontory)**|**🐝 [홍공진](http://github.com/)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&section=footer)](https://github.com/2023-KDH-Capstone-Design) 

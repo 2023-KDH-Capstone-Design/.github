@@ -8,18 +8,18 @@
 
 &nbsp;  
 
-## 📦 Repositories
-- .github:
+## 🚀 Projects
+- 
 
 &nbsp;  
 
 ## 👨‍👩‍👧‍👦 Members
 |[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|
 |:---:|:---:|:---:|:---:|:---:|
-|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|
+|**👑 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
 |[[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|
-|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|**[조병찬](http://github.com/bbjbc)**|
+|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [조병찬](http://github.com/bbjbc)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&section=footer)](https://github.com/2023-KDH-Capstone-Design) 

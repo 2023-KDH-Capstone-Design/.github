@@ -9,7 +9,7 @@
 &nbsp;  
 
 ## 🚀 Projects
-- 
+- Medical Chat Bot for Foreigners (2023.03 ~)
 
 &nbsp;  
 

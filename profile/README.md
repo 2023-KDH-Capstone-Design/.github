@@ -9,7 +9,7 @@
 &nbsp;  
 
 ## 🚀 Projects
-- Medical Chat Bot for Foreigners (2023.03 ~)
+- (2023.03 ~) Medical Chat Bot for Foreigners: 외국인 대상 의료 정보 제공 대화형 챗봇 SW 서비스
 
 &nbsp;  
 

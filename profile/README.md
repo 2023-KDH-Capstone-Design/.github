@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=230&section=header&text=나의%20위대함을%20적에게%20알리지%20마라.&desc=2023년%201학기%20컴퓨터공학기초캡스톤디자인&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/2023-KDH-Capstone-Design)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=230&section=header&text=나의%20위대함을%20적에게%20알리지%20마라.&desc=2023학년도%201학기%20컴퓨터공학기초캡스톤디자인&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/2023-KDH-Capstone-Design)
 
 ## 💁🏻 About Team
 > 경기대학교 컴퓨터공학부  

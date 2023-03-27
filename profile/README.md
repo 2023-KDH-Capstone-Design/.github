@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&animation=fadeIn&height=230&section=header&text=나의%20위대함을%20적에게%20알리지%20마라.&desc=2023학년도%201학기%20컴퓨터공학기초캡스톤디자인&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/2023-KDH-Capstone-Design)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2023-KDH-Capstone-Design%2Fhit-counter&count_bg=%2339ac14&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/2023-KDH-Capstone-Design)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2023-KDH-Capstone-Design%2Fhit-counter&count_bg=%2300C9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/2023-KDH-Capstone-Design)
 
 ## 💁🏻 About Team
 > 경기대학교 소프트웨어경영대학 AI컴퓨터공학부  

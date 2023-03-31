@@ -16,9 +16,9 @@
 &nbsp;  
 
 ## 👨‍👩‍👧‍👦 Members
-|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![](https://avatars.githubusercontent.com/u/)](http://github.com/)|[![eukddan](https://avatars.githubusercontent.com/u/117348447)](http://github.com/eukddan)|[![smpark00](https://avatars.githubusercontent.com/u/126854215)](http://github.com/)|[![fbehddn](https://avatars.githubusercontent.com/u/108855080)](http://github.com/fbehddn)|
+|[![Boongranii](https://avatars.githubusercontent.com/u/102457140)](http://github.com/bbjbc)|[![201912025](https://avatars.githubusercontent.com/u/126853887)](http://github.com/)|[![eukddan](https://avatars.githubusercontent.com/u/117348447)](http://github.com/eukddan)|[![smpark00](https://avatars.githubusercontent.com/u/126854215)](http://github.com/)|[![fbehddn](https://avatars.githubusercontent.com/u/108855080)](http://github.com/fbehddn)|
 |:---:|:---:|:---:|:---:|:---:|
-|**👑 [조병찬](http://github.com/bbjbc)**|**🐝 [김담현](http://github.com/)**|**🐝 [김유찬](http://github.com/eukddan)**|**🐝 [박승민](http://github.com/smpark00)**|**🐝 [유동우](http://github.com/fbehddn)**|
+|**👑 [조병찬](http://github.com/bbjbc)**|**🐝 [김담현](http://github.com/201912025)**|**🐝 [김유찬](http://github.com/eukddan)**|**🐝 [박승민](http://github.com/smpark00)**|**🐝 [유동우](http://github.com/fbehddn)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
 |[![yunjusseongg](https://avatars.githubusercontent.com/u/126853299)](http://github.com/yunjusseongg)|[![limbaba1120](https://avatars.githubusercontent.com/u/102224840)](http://github.com/limbaba1120)|[![holyPigeon](https://avatars.githubusercontent.com/u/89138189)](http://github.com/holyPigeon)|[![wontory](https://avatars.githubusercontent.com/u/94912717)](http://github.com/wontory)|[![Gongjjin](https://avatars.githubusercontent.com/u/116998029)](http://github.com/Gongjjin)|
 |**🐝 [윤주성](http://github.com/yunjusseongg)**|**🐝 [임건우](http://github.com/limbaba1120)**|**🐝 [정재우](http://github.com/holyPigeon)**|**🐝 [조성원](http://github.com/wontory)**|**🐝 [홍공진](http://github.com/Gongjjin)**|

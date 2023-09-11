@@ -18,7 +18,7 @@
 
 |**2023 컴퓨터공학기초캡스톤디자인 경진대회**|**2023 한국정보기술학회**|
 |:---:|:---:|
-|추후 업로드 예정|<img src="https://github.com/2023-KDH-Capstone-Design/.github/assets/102457140/732ee09b-ea49-4848-ab5d-76fd4344c747"  width="300" height="450">|
+|<img src="https://github.com/2023-KDH-Capstone-Design/.github/assets/102457140/3c254fcf-09b0-4622-9312-e5d708b4f590" width="300" height="450">|<img src="https://github.com/2023-KDH-Capstone-Design/.github/assets/102457140/732ee09b-ea49-4848-ab5d-76fd4344c747"  width="300" height="450">|
 |**금상 수상 🥇**|**동상 수상 🥉**|
 
 &nbsp;  
